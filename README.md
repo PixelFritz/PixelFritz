@@ -1,5 +1,3 @@
-# Pixel Fritz
-
 Meu nome é Gabriella, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas. Meu interesse pela programação surgiu durante a pandemia, e em 2023 decidi seguir carreira na área. Ainda sou iniciante, mas meu objetivo é me tornar uma Desenvolvedora Full Stack.
 <br><br>
 My name is Gabriella, I'm 18 years old and I'm currently studying Systems Analysis and Development. My interest in programming arose during the pandemic, and in 2023 I decided to pursue career in the area. I'm still a beginner, but my goal is to become a Full Stack Developer.
