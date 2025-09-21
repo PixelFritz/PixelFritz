@@ -1,6 +1,6 @@
-Meu nome é Gabriella, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas. Meu interesse pela programação surgiu durante a pandemia, e em 2023 decidi seguir carreira na área. Ainda sou iniciante, mas meu objetivo é me tornar uma Desenvolvedora Full Stack.
+Meu nome é Gabriella, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas. Meu interesse pela programação surgiu durante a pandemia, e em 2023 decidi seguir carreira na área. Ainda sou iniciante, mas meu objetivo é me tornar uma Desenvolvedora Full Stack ou Desenvolvedora de Jogos.
 <br><br>
-My name is Gabriella, I'm 18 years old and I'm currently studying Systems Analysis and Development. My interest in programming arose during the pandemic, and in 2023 I decided to pursue career in the area. I'm still a beginner, but my goal is to become a Full Stack Developer.
+My name is Gabriella, I'm 19 years old and I'm currently studying Systems Analysis and Development. My interest in programming arose during the pandemic, and in 2023 I decided to pursue career in the area. I'm still a beginner, but my goal is to become a Full Stack Developer or a Game Developer.
 
 <img src="https://hellocoding.de/images/category/allgemein/programmieren-lernen/thumb/dark-programmieren-lernen.jpg" alt="Programação">
 
@@ -21,12 +21,21 @@ My name is Gabriella, I'm 18 years old and I'm currently studying Systems Analys
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Ferramentas (Tools)
 
 ![Vscode](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
 
